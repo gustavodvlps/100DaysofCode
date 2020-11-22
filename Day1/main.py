@@ -1,4 +1,4 @@
-#A simple program that demonstrates working with the print function, 
+#A basic program that demonstrates working with the print function, 
 #variables and string manipulation
 
 #print function
