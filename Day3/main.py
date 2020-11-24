@@ -37,9 +37,9 @@ if (choice1 == "left"): #opening flow statement for choice1
       print("You Win!")
     else:
       print("Game Over") #closing flow statement for choice 3
-  elif choice2 != "wait": #closing flow statement for choice 2
+  else: #closing flow statement for choice 2
     print("Attacked by trout.  Game Over")
-elif (choice1 != "left"): #closing flow statement for choice1
+else: #closing flow statement for choice1
   print("You fell into a hole.  Game Over")
 
 
